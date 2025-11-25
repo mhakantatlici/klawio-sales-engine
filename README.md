@@ -7,13 +7,13 @@ What it Does
 
 Scrapes businesses from OpenStreetMap
 
-Extracts emails, websites, phone numbers
+Extracts lead contact informations
 
 Uses AI to score leads
 
 Generates full outreach emails
 
-Sends emails automatically
+Sends email
 
 Adds leads into a backend CRM
 
